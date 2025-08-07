@@ -29,6 +29,7 @@ This project is a **Streamlit-based web application** that predicts the **risk o
 ---
 
 
-📢 Disclaimer
+## 📢 Disclaimer
+
 This tool is for educational and demonstration purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
